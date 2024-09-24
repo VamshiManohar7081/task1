@@ -1,0 +1,11 @@
+ a:hover{
+    font-size: large;
+    font-style: italic;
+    color: black;
+ }
+ a:active{
+    color: red;
+ }
+body{
+    background-color: aquamarine;
+}

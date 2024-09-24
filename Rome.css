@@ -1,0 +1,16 @@
+a:hover{
+    font-size: large;
+    color: darkgoldenrod;
+    font-style: italic;
+}
+a:active{
+    color: red;
+}
+img{
+    border: 1.5px solid black;
+    border-radius: 20%;
+
+} 
+body{
+    background-color: azure;
+}
